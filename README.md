@@ -1,4 +1,8 @@
-## Hi there 👋, I am Bhavya V
+<h1 align="center">Hi 👋,I'm Bhavya V</h1>
+
+- 🌱Currently a Computational Linguistics Sophomore @ IIIT Hyderabad :D
+- 🔭most of my projects here are webdev and NLP
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
