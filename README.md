@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,I'm Bhavya V</h1>
 
-- 🌱Currently a Computational Linguistics Sophomore @ IIIT Hyderabad :D
+- 🌱Currently a Computational Linguistics Junior @ IIIT Hyderabad :D
 - 🔭most of my projects here are webdev and NLP
 
 ---
