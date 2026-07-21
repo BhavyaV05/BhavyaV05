@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋,I'm Bhavya</h1>
 
-- 🌱Currently a Computational Linguistics Junior @ IIIT Hyderabad :D
-- 🔭most of my projects here are webdev and NLP
+- 🌱Currently a Computational Linguistics Senior @ IIIT Hyderabad :D
+- 🔭most of my projects here are Webdev, NLP and ML
 
 ---
 
